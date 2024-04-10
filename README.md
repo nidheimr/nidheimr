@@ -8,14 +8,14 @@
 <h3 align="center"><samp>~$ cat "Jay Parker's Profile"</samp></h3>
 <p align="center"><samp>「</samp> もしもし！<samp>I like to break things and figure out how i did it... 」</samp></p>
 
-<br><br>
+<br>
 
 <div>
   <h2>About Me</h2>
-  placeholder
+  <p>Cybersecurity enthusiast and low-level software developer. I like to mess around with the low-level parts of a computer that either breaks it or makes something really cool. Sometimes I even take it upon myself to try and fix what i broke... <em>sometimes</em>.</p>
 </div>
 
-<br><br>
+<br>
 
 <div>
   <h2>Skills</h2>
@@ -49,5 +49,21 @@
 
 <div>
   <h2>Current Projects</h2>
-  placeholder
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Repository</th>
+    </tr>
+    <tr>
+      <td>Akeno</td>
+      <td>x64 UEFI Operating System</td>
+      <td>https://github.com/nidheimr/Akeno</td>
+    </tr>
+    <tr>
+      <td>Altier</td>
+      <td>Kanji and Vocabulary Memorisation Site </td>
+      <td>https://github.com/nidheimr/Altier</td>
+    </tr>
+  </table>
 </div>
