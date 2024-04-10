@@ -1,8 +1,13 @@
-### Currently Working On
+## Currently Working On
 
-- https://github.com/nidheimr/Altier
-- https://github.com/nidheimr/Akeno
+### Altier
+*https://github.com/nidheimr/Altier*
+A website for Japanese kanji and vocabulary memorisation. 
 
-### Future Projects
+### Akeno
+*https://github.com/nidheimr/Akeno*
+An x64 UEFI Operating System.
+
+## Future Projects
 
 - Low Level Programming Language
