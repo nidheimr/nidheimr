@@ -60,10 +60,5 @@
       <td>x64 UEFI Operating System</td>
       <td>https://github.com/nidheimr/Akeno</td>
     </tr>
-    <tr>
-      <td>Altier</td>
-      <td>Kanji and Vocabulary Memorisation Site </td>
-      <td>https://github.com/nidheimr/Altier</td>
-    </tr>
   </table>
 </div>
