@@ -58,12 +58,12 @@
     <tr>
       <td>Akeno</td>
       <td>x64 UEFI Operating System</td>
-      <td>https://github.com/nidheimr/Akeno</td>
+      <td>https://github.com/nidheimr/akeno</td>
     </tr>
     <tr>
       <td>Abernyu</td>
       <td>Programming Language</td>
-      <td>https://github.com/nidheimr/Abernyu</td>
+      <td>https://github.com/nidheimr/abernyu</td>
     </tr>
   </table>
 </div>
