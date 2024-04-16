@@ -60,5 +60,10 @@
       <td>x64 UEFI Operating System</td>
       <td>https://github.com/nidheimr/Akeno</td>
     </tr>
+    <tr>
+      <td>Abernyu</td>
+      <td>Programming Language</td>
+      <td>https://github.com/nidheimr/Abernyu</td>
+    </tr>
   </table>
 </div>
