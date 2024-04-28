@@ -65,10 +65,5 @@
       <td>Programming Language</td>
       <td>https://github.com/nidheimr/abernyu</td>
     </tr>
-    <tr>
-      <td>Anahem</td>
-      <td>3D Rendering Engine</td>
-      <td>https://github.com/nidheimr/Anahem</td>
-    </tr>
   </table>
 </div>
