@@ -47,10 +47,10 @@
 
 <br>
 
-<div>
-  You'll notice that some repositories have special names and others are names after what they are. If the repository holds a project that can run standalone then it will have a special name, if the repository holds a library or something similar, it will be named appropriately.
-  
+<div>  
   <h2>Current Projects</h2>
+  <p>You'll notice that some repositories have special names and others are names after what they are. If the repository holds a project that can run standalone then it will have a special name, if the repository holds a library or something similar, it will be named appropriately.</p>
+  
   <table>
     <tr>
       <th>Project</th>
