@@ -48,6 +48,8 @@
 <br>
 
 <div>
+  You'll notice that some repositories have special names and others are names after what they are. If the repository holds a project that can run standalone then it will have a special name, if the repository holds a library or something similar, it will be named appropriately.
+  
   <h2>Current Projects</h2>
   <table>
     <tr>
@@ -56,14 +58,14 @@
       <th>Repository</th>
     </tr>
     <tr>
-      <td>Akeno</td>
-      <td>x64 UEFI Operating System</td>
-      <td>https://github.com/nidheimr/akeno</td>
+      <td>Anahem</td>
+      <td>Web server in C</td>
+      <td>https://github.com/nidheimr/anahem</td>
     </tr>
     <tr>
-      <td>Abernyu</td>
-      <td>Programming Language</td>
-      <td>https://github.com/nidheimr/abernyu</td>
+      <td>Common C</td>
+      <td>C library full of utilities</td>
+      <td>https://github.com/nidheimr/common-c</td>
     </tr>
   </table>
 </div>
