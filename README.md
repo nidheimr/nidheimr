@@ -58,11 +58,6 @@
       <th>Repository</th>
     </tr>
     <tr>
-      <td>Anahem</td>
-      <td>Web server in C</td>
-      <td>https://github.com/nidheimr/anahem</td>
-    </tr>
-    <tr>
       <td>Common C</td>
       <td>C library full of utilities</td>
       <td>https://github.com/nidheimr/common-c</td>
