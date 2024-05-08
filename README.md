@@ -58,9 +58,9 @@
       <th>Repository</th>
     </tr>
     <tr>
-      <td>Common C</td>
-      <td>C library full of utilities</td>
-      <td>https://github.com/nidheimr/common-c</td>
+      <td>Abernyu</td>
+      <td>OpenGL Game Framework</td>
+      <td>https://github.com/nidheimr/abernyu</td>
     </tr>
   </table>
 </div>
