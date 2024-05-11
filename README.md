@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td>Abernyu</td>
-      <td>OpenGL Game Framework</td>
+      <td>2D OpenGL Game Framework</td>
       <td>https://github.com/nidheimr/abernyu</td>
     </tr>
   </table>
