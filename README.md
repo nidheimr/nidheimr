@@ -58,9 +58,9 @@
       <th>Repository</th>
     </tr>
     <tr>
-      <td>Abernyu</td>
-      <td>2D OpenGL Game Framework</td>
-      <td>https://github.com/nidheimr/abernyu</td>
+      <td>Akeno</td>
+      <td>Zig x86 OS w/ Custom Bootloader</td>
+      <td>https://github.com/nidheimr/akeno</td>
     </tr>
   </table>
 </div>
