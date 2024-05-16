@@ -58,9 +58,9 @@
       <th>Repository</th>
     </tr>
     <tr>
-      <td>Akeno</td>
-      <td>Zig x86 OS w/ Custom Bootloader</td>
-      <td>https://github.com/nidheimr/akeno</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </table>
 </div>
